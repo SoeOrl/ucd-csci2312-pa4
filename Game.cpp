@@ -114,10 +114,6 @@ namespace Gaming
 		}
 	}
 
-	Game::Game(const Game &another)
-	{
-
-	}
 
 	Game::~Game()
 	{
